@@ -1,3 +1,5 @@
+Link to live preview: https://kobahmi.github.io/cv-application/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
