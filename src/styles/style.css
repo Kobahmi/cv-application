@@ -52,7 +52,7 @@ body {
 .Text {
   display: flex;
   justify-content: space-between;
-  width: 15rem;
+  width: 18rem;
   overflow-wrap: break-word;
 }
 
@@ -80,7 +80,7 @@ body {
 
 .wide.wideSkill {
   display: block;
-  width: 65vw;
+  width: 100%;
   overflow-wrap: break-word;
 }
 
